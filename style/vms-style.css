@@ -1,0 +1,65 @@
+body {
+    padding-top: 20px;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.screen-header {
+    text-align: center;
+    margin: auto;
+    color: #222;
+    text-shadow: 2px 2px 2px #bbb;
+}
+
+.header-vms {
+    font: 50px "Work Sans";
+    letter-spacing: 5px;
+}
+.header-qs {
+    font: 20px "Work Sans";
+    text-transform: uppercase;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.form-btn{
+    margin-bottom: 10px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+a{
+    text-decoration: none;
+}
+
+.alert{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.dashboard-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
